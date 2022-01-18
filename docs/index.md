@@ -1,7 +1,7 @@
 * [OSNT](osint.md)
 * [dns enumeration](dnsenumeration.md)
 
-# [Where automation should stop, and end][1]
+# Where automation should stop, and end
 
 Automation is another highly misunderstood rabbit hole of bug bounties. If your automation consists of running popular [ethical hacking tools](https://securitytrails.com/blog/best-ethical-hacking-tools) and looking for what everybody else is (such as default subdomain takeovers), your returns are going to be low and you’ll experience a high number of duplicates. Even as recently as two years ago, automation would show value anywhere that you pointed it; these days, however, most common vulnerabilities are claimed within minutes, not hours.
 
