@@ -12,7 +12,7 @@ Active recon consists of running tools where your own IP (or VPS IP) will make a
 
 ## Passive recon
 
-Passive recon is where you use data sources that monitor asset spaces for you. Performing these queries is extremely flexible, ranging from [Subfinder](https://github.com/projectdiscovery/subfinder), [AMASS](https://securitytrails.com/blog/owasp-amass), [Microsubs](https://github.com/codingo/microsubs), and more.
+Passive recon is where you use data sources that monitor asset spaces for you. Performing these queries is extremely flexible, ranging from [Subfinder](https://github.com/projectdiscovery/subfinder), [AMASS](https://github.com/OWASP/Amass), [Microsubs](https://github.com/codingo/microsubs), and more.
 
 The key benefit of monitoring targets in this manner is that you’re not risking a program ban or escalation that could see you receiving penalties from a bounty platform.
 
