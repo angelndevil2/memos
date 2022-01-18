@@ -20,7 +20,7 @@ The key benefit of monitoring targets in this manner is that you’re not riskin
 # Tools
 
 * [subfinder](subfinder.md) - subdomain finder
-* [amass](amass.md) - open source network mapping and attack surface discovery tool
+* [amass](amass/amass.md) - open source network mapping and attack surface discovery tool
 
 ---
 
