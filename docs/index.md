@@ -18,4 +18,4 @@ Passive recon is where you use data sources that monitor asset spaces for you. [
 The key benefit of monitoring targets in this manner is that you’re not risking a program ban or escalation that could see you receiving penalties from a bounty platform.
 
 ---
-[1]: https://securitytrails.com/blog/the-most-misunderstood-element-recon (The Most Misunderstood Element: Recon)
+[1]: https://securitytrails.com/blog/the-most-misunderstood-element-recon
