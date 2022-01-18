@@ -1,5 +1,4 @@
-* [OSNT](osint.md)
-* [dns enumeration](dnsenumeration.md)
+[OSNT](osint.md) | [dns enumeration](dnsenumeration.md)
 
 # [Where automation should stop, and end][1]
 
@@ -13,9 +12,15 @@ Active recon consists of running tools where your own IP (or VPS IP) will make a
 
 ## Passive recon
 
-Passive recon is where you use data sources that monitor asset spaces for you. [SecurityTrails API™](https://securitytrails.com/corp/api) and [SurfaceBrowser™](https://securitytrails.com/corp/surfacebrowser) are excellent examples of this. SecurityTrails monitors target spaces for you, allowing you to identify new attack surfaces when they appear in your queries. Performing these queries is extremely flexible, ranging from [Subfinder](https://securitytrails.com/blog/subfinder), [AMASS](https://securitytrails.com/blog/owasp-amass), [Microsubs](https://github.com/codingo/microsubs), and more.
+Passive recon is where you use data sources that monitor asset spaces for you. Performing these queries is extremely flexible, ranging from [Subfinder](https://github.com/projectdiscovery/subfinder), [AMASS](https://securitytrails.com/blog/owasp-amass), [Microsubs](https://github.com/codingo/microsubs), and more.
 
 The key benefit of monitoring targets in this manner is that you’re not risking a program ban or escalation that could see you receiving penalties from a bounty platform.
 
+
+# Tools
+
+* [subfinder](subfinder.md)
+
 ---
-[1]: https://securitytrails.com/blog/the-most-misunderstood-element-recon
+
+[1]:https://securitytrails.com/blog/the-most-misunderstood-element-recon (The Most Misunderstood Element: Recon)
