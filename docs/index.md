@@ -24,4 +24,4 @@ The key benefit of monitoring targets in this manner is that you’re not riskin
 
 ---
 
-[1]:https://securitytrails.com/blog/the-most-misunderstood-element-recon (The Most Misunderstood Element: Recon)
+[1]:https://securitytrails.com/blog/the-most-misunderstood-element-recon
