@@ -1,3 +1,5 @@
+[help](amass-help.md)
+
 # Usage
 
 ## subdomain enum
